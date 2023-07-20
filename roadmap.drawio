@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T15:36:05.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="N4SF3btQF8JaBc1PeSwP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T15:38:14.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="GXQZZTMyOPJ6WcK9lRlw" type="github">
   <diagram id="CwU8dhpzYnV2hqpYqISQ" name="Page-1">
     <mxGraphModel dx="954" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,12 +8,12 @@
           <mxGeometry x="273.5" y="30" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="720" y="40" width="80" height="20" as="geometry" />
+          <mxGeometry x="720" y="20" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Personal must know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+        <mxCell id="7" value="Subcategory" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="680" y="70" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Good to know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="9" value="Algorithm Category" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="680" y="100" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Possibilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
@@ -177,8 +177,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3GfHXLE6OEoNehkDiDL5-196" value="A* methods" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-196" value="A* methods" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffcc99;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="540" y="230.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-197" value="Category" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
