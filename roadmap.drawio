@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T15:29:48.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="dPZ1iiwRUpeBkCepO8Wc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T15:37:34.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="W5qlBJ4mCIjKV1yDNlTq" type="github">
   <diagram id="CwU8dhpzYnV2hqpYqISQ" name="Page-1">
     <mxGraphModel dx="763" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -200,6 +200,18 @@
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-220" value="Modified low level focal search ECBS" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="40" y="273" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-221" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GfHXLE6OEoNehkDiDL5-215">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="276" as="sourcePoint" />
+            <mxPoint x="160" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-222" value="Learned Heuristics EECBS" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="110" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
