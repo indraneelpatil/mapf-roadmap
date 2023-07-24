@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T15:11:47.739Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="9FuwvkN6-uUS6vyhZD0m" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T15:14:45.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="z8_G71ISkBF9tn-e-XDq" type="github">
   <diagram id="CwU8dhpzYnV2hqpYqISQ" name="Page-1">
     <mxGraphModel dx="763" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3GfHXLE6OEoNehkDiDL5-266" value="Minimum Communication Policy (MCP)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-266" value="Minimum Communication Policy (MCP) (Acyclic Directed Graph)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="590" y="483" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-267" value="k Robust MAPF" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffcc99;strokeColor=#000000;" vertex="1" parent="1">
