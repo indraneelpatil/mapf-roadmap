@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T15:14:45.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="z8_G71ISkBF9tn-e-XDq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T15:17:46.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="FGh3gs2k1iLtbZDPH4du" type="github">
   <diagram id="CwU8dhpzYnV2hqpYqISQ" name="Page-1">
     <mxGraphModel dx="763" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -400,6 +400,67 @@
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-273" value="Prioritized planning based" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="49" y="429" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-274" value="Decentralised Planning" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#fafafa;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="590" width="131.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-275" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="510" as="sourcePoint" />
+            <mxPoint x="398.5" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="540" />
+              <mxPoint x="370" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-278" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="470" as="sourcePoint" />
+            <mxPoint x="340" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-279" value="PIBT time independent execution model" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="465.5" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-280" value="Communication" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="625" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-281" value="No communication" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="649" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-282" value="Optimal Reciprocal Collision Avoidance (ORCA)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffcc99;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="113.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-283" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3GfHXLE6OEoNehkDiDL5-282">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="660" as="sourcePoint" />
+            <mxPoint x="282" y="655.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-284" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GfHXLE6OEoNehkDiDL5-282">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="661" as="sourcePoint" />
+            <mxPoint x="130" y="642" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="139" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-285" value="Deadlock resolution with local mapf" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="14" y="630" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-286" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="636" as="sourcePoint" />
+            <mxPoint x="465" y="636" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-287" value="COBRA token passing with trajectories" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="627.5" width="110" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
