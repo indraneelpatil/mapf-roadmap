@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T15:17:46.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="FGh3gs2k1iLtbZDPH4du" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T15:35:54.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="v3FDRBsoQ9LAkYVqTLI_" type="github">
   <diagram id="CwU8dhpzYnV2hqpYqISQ" name="Page-1">
     <mxGraphModel dx="763" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -461,6 +461,53 @@
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-287" value="COBRA token passing with trajectories" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="520" y="627.5" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-288" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="660" as="sourcePoint" />
+            <mxPoint x="470" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-289" value="walk, stop, count and swap" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="659" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-290" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418" y="669" as="sourcePoint" />
+            <mxPoint x="500" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="684" />
+              <mxPoint x="510" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-291" value="Anonymous MAPF / TAPF" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#fafafa;" vertex="1" parent="1">
+          <mxGeometry x="430" y="770" width="131.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-292" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="777" as="sourcePoint" />
+            <mxPoint x="390" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-293" value="Max flow assignment + CBS (CBM)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="760" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-295" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GfHXLE6OEoNehkDiDL5-291">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="787" as="sourcePoint" />
+            <mxPoint x="380" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-296" value="Consider all target assignments, evaluate with CBS (CBS-TA)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="110" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
