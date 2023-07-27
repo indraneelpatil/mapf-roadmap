@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T15:00:17.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="BxOgHTXO0_7PRx0jPBWH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T15:19:07.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="oiy7PcTfCp2LY6uTHsPU" type="github">
   <diagram id="CwU8dhpzYnV2hqpYqISQ" name="Page-1">
     <mxGraphModel dx="1590" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-227" value="Prioritized A*" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="720" y="285" width="60" height="15" as="geometry" />
+          <mxGeometry x="720" y="283" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-228" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -251,7 +251,7 @@
           <mxGeometry x="59" y="315" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-230" value="Windowed Hierarchical Cooperative A*" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="700" y="307" width="80" height="15" as="geometry" />
+          <mxGeometry x="700" y="305" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-235" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.75;endFill=0;dashed=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3GfHXLE6OEoNehkDiDL5-223">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -284,7 +284,7 @@
         <mxCell id="3GfHXLE6OEoNehkDiDL5-240" value="Priority based Search PBS" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="49" y="340" width="110" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="3GfHXLE6OEoNehkDiDL5-243" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;endFill=0;" edge="1" parent="1">
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-243" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GfHXLE6OEoNehkDiDL5-244">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="350" as="sourcePoint" />
             <mxPoint x="480" y="280" as="targetPoint" />
@@ -294,43 +294,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-244" value="Large Neighborhood Search" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffcc99;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="550" y="340" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="349" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3GfHXLE6OEoNehkDiDL5-247" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.5;endFill=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-247" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.25;endFill=0;dashed=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3GfHXLE6OEoNehkDiDL5-248" target="3GfHXLE6OEoNehkDiDL5-244">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="346" as="sourcePoint" />
-            <mxPoint x="670" y="345" as="targetPoint" />
+            <mxPoint x="720" y="354" as="sourcePoint" />
+            <mxPoint x="670" y="353" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="697" y="350" />
+              <mxPoint x="697" y="358" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-248" value="Random" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="720" y="340" width="40" height="15" as="geometry" />
+          <mxGeometry x="729" y="359" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-251" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.5;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="370" as="sourcePoint" />
-            <mxPoint x="671" y="357" as="targetPoint" />
+            <mxPoint x="730" y="378" as="sourcePoint" />
+            <mxPoint x="671" y="365" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="698" y="362" />
+              <mxPoint x="698" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-252" value="Collision based" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="730" y="360" width="40" height="15" as="geometry" />
+          <mxGeometry x="730" y="379" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-253" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.5;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="729" y="390" as="sourcePoint" />
-            <mxPoint x="670" y="367" as="targetPoint" />
+            <mxPoint x="729" y="398" as="sourcePoint" />
+            <mxPoint x="670" y="375" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="697" y="390" />
+              <mxPoint x="697" y="398" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-254" value="Failure based" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="727" y="384" width="40" height="15" as="geometry" />
+          <mxGeometry x="727" y="401" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-255" value="Mapf with uncertainty" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#fafafa;" vertex="1" parent="1">
           <mxGeometry x="400" y="376.5" width="131.5" height="30" as="geometry" />
@@ -700,6 +700,18 @@
         </mxCell>
         <mxCell id="3GfHXLE6OEoNehkDiDL5-338" value="PRIMAL : path planning using RL and Mapf using imitation learning" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="1080" width="142.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-340" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=1;endFill=0;dashed=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3GfHXLE6OEoNehkDiDL5-223">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="340" as="sourcePoint" />
+            <mxPoint x="670" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3GfHXLE6OEoNehkDiDL5-341" value="Rolling Horizon Collision Resolution" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="727" y="333" width="80" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
