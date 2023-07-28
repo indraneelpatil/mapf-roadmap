@@ -6,4 +6,4 @@ This roadmap is based on 16-891 Multi Robot Planning and Coordination offered by
 
 ### Roadmap
 
-![Roadmap](./roadmap.drawio.png)
+![Roadmap](./roadmap.png)
